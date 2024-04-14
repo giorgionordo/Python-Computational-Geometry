@@ -24,7 +24,7 @@ che definisce i poligoni nel piano ed i relativi metodi primitivi
 Classe di geometria computazionale in Python
 che definisce le liste di punti del piano ed i relativi metodi primitivi
 utilizzando come contenitore gli oggetti poligono
-osia come classe figlio della classe gcPoligono
+ossia come classe figlio della classe gcPoligono
 
 ## Classe `Triangolo`
 Classe di geometria computazionale in Python
