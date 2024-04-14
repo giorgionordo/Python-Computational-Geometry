@@ -13,7 +13,7 @@ Definisce i punti 2D.
 **Descrizione**: classe di geometria computazionale in Python
         che definisce i punti 2D ed i relativi metodi primitivi
 
-## Classe `ListaPunti`
+# Classe `ListaPunti`
 Definisce le liste di punti nel piano usando come contenitore gli oggetti poligono.
 **Descrizione**: classe di geometria computazionale in Python
         che definisce le liste di punti del piano ed i relativi metodi primitivi
@@ -27,7 +27,7 @@ Definisce i segmenti nel piano.
         che definisce i segmenti nel piano ed i relativi metodi primitivi
 
 
-## Classe `Triangolo`
+# Classe `Triangolo`
 Definisce i triangoli nel piano.
 **Descrizione**: classe di geometria computazionale in Python
         che definisce i triangoli nel piano ed i relativi metodi primitivi
@@ -39,13 +39,13 @@ Definisce i semipiani sinistri nel piano.
         che definisce i semipiani sinistri nel piano ed i relativi metodi primitivi
 
 
-## Classe `Poligono`
+# Classe `Poligono`
 Definisce i poligoni nel piano.
 **Descrizione**: classe di geometria computazionale in Python
         che definisce i poligoni nel piano ed i relativi metodi primitivi
 
 
-## Classe `BoundingContainer`
+# Classe `BoundingContainer`
 Definisce i bounding box nel piano.
 **Descrizione**: classe di geometria computazionale in Python
         che definisce i bounding box nel piano ed i relativi metodi primitivi
