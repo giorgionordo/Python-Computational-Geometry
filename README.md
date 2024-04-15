@@ -1,6 +1,4 @@
-# pygc
-Python for Computational Geometry
-
+# Python for Computational Geometry
 Giorgio Nordo - Dipartimento MIFT, Università di Messina, Italy
 www.nordo.it   |  giorgio.nordo@unime.it 
 
