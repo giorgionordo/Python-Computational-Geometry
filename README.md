@@ -3,7 +3,7 @@ Giorgio Nordo - Dipartimento MIFT, Università di Messina, Italy
 www.nordo.it   |  giorgio.nordo@unime.it 
 
 # Introduzione
-Pacchetto di classi Python per l'insegnamento della Geometria Computazionale
+Pacchetto di classi Python per l'insegnamento della Geometria Computazionale.
 Contiene diverse classi implementate in Python per la manipolazione di entità geometriche nel piano. Ogni classe è dotata di metodi primitivi per la gestione delle proprie entità. Di seguito una breve descrizione di ciascuna classe:
 
 ## Classe `Punto`
